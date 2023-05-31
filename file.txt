@@ -1,0 +1,6 @@
+Pseudo code 
+so i did
+git clone then after
+git init
+git status
+in git file i create file.txt
